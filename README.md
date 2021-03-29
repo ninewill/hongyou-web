@@ -1,6 +1,6 @@
 # M-NpmAcademic
 
-Hong You
+wdlab3D
 
 First install dependencies:
 
